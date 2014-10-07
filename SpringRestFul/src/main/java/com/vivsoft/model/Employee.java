@@ -53,6 +53,7 @@ public class Employee {
     	sb.append("Id = ").append(id).append(" - ");
     	sb.append("Name = ").append(name).append(" - ");
     	sb.append("Salary = ").append(salary);
+    	sb.append("No hay nada");
     	return sb.toString();
     }
 
